@@ -5,3 +5,4 @@ Audio visualization for [obs-studio](https://obsproject.com/) using [fftw](http:
 
 Allows for vizualisation of [MPD](https://www.musicpd.org/) and internal obs audio sources.
 ![demo](https://i.imgur.com/3QyBqgb.png)
+
