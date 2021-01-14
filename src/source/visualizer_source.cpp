@@ -32,6 +32,7 @@ struct enum_data {
     obs_property *list;
 };
 
+    
 visualizer_source::visualizer_source(obs_source_t *source, obs_data_t *settings)
 {
     m_config.settings = settings;
